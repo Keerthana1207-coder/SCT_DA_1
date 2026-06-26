@@ -24,7 +24,7 @@ This project was completed as part of the **SkillCraft Technology Data Analytics
 - Interactive dashboard enables quick business analysis.
 
 ### 📷 Dashboard Preview
-![Uploading Dashboard.png…]()
+<img width="995" height="414" alt="Dashboard" src="https://github.com/user-attachments/assets/284f68e8-7f7a-40f3-bd28-d491c774d77b" />
 
 ### 📁 Repository Contents
 - `Dashboard.xlsx`
